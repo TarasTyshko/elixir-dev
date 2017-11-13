@@ -51,6 +51,6 @@ config :elixir_dev, ElixirDev.Repo,
   adapter: Ecto.Adapters.Postgres,
   username: "postgres",
   password: "postgres",
-  database: "elixir_dev_dev",
+  database: "postgres",
   hostname: "localhost",
   pool_size: 10
